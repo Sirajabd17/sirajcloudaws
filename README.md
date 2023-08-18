@@ -1,7 +1,7 @@
 - 👋 Hi, I’m siraj
-- 👀 I’m interested in cloud linux 
-- 🌱 I’m currently learning aws redhat linux distribution
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in front-end development
+- 💞️ My primary skills set Html(5) CSS Bootstrap(5)  javascript(ES6) 
+- 🌱 I’m currently learning  react js
 - 📫 How to reach me my gmail ksiraj728@gmail.com,m:-7840034349
 
 <!---
